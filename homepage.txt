@@ -1,3 +1,2 @@
 This is homepage
 Few lines of design
-Added few more lines to homepage
